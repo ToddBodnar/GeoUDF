@@ -37,7 +37,7 @@ select geoCode(0,0) --if you give a point outside of the states;
 
 ## License
 
-[States.xml](https://github.com/kjhsoftware/us-state-polygons/blob/master/states.xml) Copyright (c) 2013 KJH Software LLC, distributed under MIT.
+States.xml based on [states.xml](https://github.com/kjhsoftware/us-state-polygons/blob/master/states.xml) Copyright (c) 2013 KJH Software LLC, distributed under MIT.
 
 GeoUDF is also released under the MIT license.
 
