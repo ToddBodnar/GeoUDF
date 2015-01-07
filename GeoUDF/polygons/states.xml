@@ -1,8 +1,9 @@
 <states>
 <state name ="district of columbia">
-  <point lat="38.8921" lng="-76.9085"/>
-  <point lat="38.9946" lng="-77.0410"/>
-  <point lat="38.9332" lng="-77.1207"/>
+  <point lat="38.8028" lng="-77.0207"/>
+  <point lat="38.8921" lng="-76.9085"/> 
+  <point lat="38.9946" lng="-77.0410"/> 
+  <point lat="38.9332" lng="-77.1207"/> 
 </state>
 <state name ="Alaska" colour="#ff0000" >
   <point lat="70.0187" lng="-141.0205"/>
